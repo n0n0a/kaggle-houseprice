@@ -1,2 +1,2 @@
 # kaggle-houseprice
-Practice data analysis with titanic dataset
+Practice data analysis with HousePrice dataset
